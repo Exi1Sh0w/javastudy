@@ -1,0 +1,34 @@
+package 集合;
+
+/*
+    @Auther: exiashow
+    @Date: 2025/3/30 23:36
+    @Summary: 与ArrayListDemo2搭配使用
+*/
+public class Student {
+    private String name;
+    private int age;
+
+    public Student() {
+    }
+    public Student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+}
