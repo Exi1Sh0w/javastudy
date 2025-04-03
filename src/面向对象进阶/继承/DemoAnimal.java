@@ -1,0 +1,16 @@
+package 面向对象进阶.继承;
+
+/*
+    @Auther: exiashow
+    @Date: 2025/4/3 18:01
+    @Summary: 
+*/
+public class DemoAnimal {
+    public void eat(){
+        System.out.println("吃饭");
+    }
+
+    public void drink(){
+        System.out.println("喝水");
+    }
+}
