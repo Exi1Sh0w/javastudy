@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 /*        // x自增了两次，所以x=12
         int x = 10;
-        // 先用后加，所以y=10
+        // 先用后加，所以y=10`
         int y = x++;
         // 先加后用，所以z=12
         int z = ++x;
@@ -49,3 +49,4 @@ public class Main {
         arr[1] = 200;
     }
 }
+
